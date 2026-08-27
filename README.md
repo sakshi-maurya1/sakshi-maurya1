@@ -44,18 +44,18 @@ Feed it any PDF, get answers grounded only in that document — no hallucinated 
 A conversational agent built with LangChain, Gemini, and Streamlit — my hands-on deep dive into how LLM agents actually work, from a single chain up to a full agent loop.
 
 **[Medical Assistance Chatbot](https://github.com/sakshi-maurya1/medical-assistance-chatbot)**
-A chatbot that answers queries related to medicine and heath - made by finetuning BioBART Model with the help of QLora technique.
+AI healthcare assistant fine-tuning BioBART-v2 with QLoRA for domain-specific conversational NLP, served via FastAPI + Streamlit.
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-maurya1&show_icons=true&theme=tokyonight&count_private=true" width="49%" alt="Sakshi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-maurya1&layout=compact&theme=tokyonight" width="49%" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sakshi-maurya1&show_icons=true&theme=tokyonight&count_private=true" width="49%" alt="Sakshi's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshi-maurya1&layout=compact&theme=tokyonight" width="49%" alt="Top languages" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-maurya1&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sakshi-maurya1&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sakshi-maurya1&theme=tokyonight&row=1&column=6)
 
@@ -66,5 +66,6 @@ Sharpening the gap between "I can build an agent" and "I can build an agent some
 
 ### 📫 Reach me
 - LinkedIn: [sakshi-maurya](https://www.linkedin.com/in/sakshi-maurya-a495a7216)
-- Email: sakshi3maurya@gmail.com
+- Email:  [sakshi3maurya@gmail.com](mailto:sakshi3maurya@gmail.com)
+- CV: [sakshi-maurya-cv](https://www.overleaf.com/read/pcmghmyzdhyz#166fe3) 
 - Based in Mumbai · open to remote work
