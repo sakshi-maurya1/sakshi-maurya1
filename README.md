@@ -57,7 +57,7 @@ AI healthcare assistant fine-tuning BioBART-v2 with QLoRA for domain-specific co
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sakshi-maurya1&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sakshi-maurya1&theme=tokyonight&row=1&column=6)
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=sakshi-maurya1&theme=tokyonight&row=1&column=6) -->
 
 ---
 
