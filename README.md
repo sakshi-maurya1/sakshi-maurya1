@@ -60,6 +60,13 @@ AI healthcare assistant fine-tuning BioBART-v2 with QLoRA for domain-specific co
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=sakshi-maurya1&theme=tokyonight&row=1&column=6) -->
 
 ---
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
 
 ### 📍 Right now
 Sharpening the gap between "I can build an agent" and "I can build an agent someone would actually pay for." If you're hiring for AI/ML engineering, or have a project that needs an agentic system or RAG pipeline built properly — let's talk.
