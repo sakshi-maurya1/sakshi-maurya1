@@ -34,11 +34,11 @@ Plus everything two years of evaluating models has taught me about prompt design
 
 ### 🚀 Projects I'd point you to first
 
+**[CourseMate](https://github.com/sakshi-maurya1/CourseMate)**
+Citation-grounded RAG for course material — combining hybrid retrieval, cross-encoder reranking, and LLM generation to deliver accurate answers with page-level citations and reliable refusal when the source material doesn’t contain the answer.
+
 **[Agentic AI Recruitment Copilot](https://github.com/sakshi-maurya1/Agentic-AI-Recruitment-Copilot)**
 A multi-step recruitment assistant orchestrated with LangGraph — automates resume screening and candidate evaluation across several stages instead of a single prompt-in, answer-out flow.
-
-**[RAG-based QnA](https://github.com/sakshi-maurya1/RAG-based-QnA)**
-Feed it any PDF, get answers grounded only in that document — no hallucinated context, no reaching outside the source. Built to actually test the limits of retrieval-augmented generation, not just demo it.
 
 **[LangChain AI Agent](https://github.com/sakshi-maurya1/langchain-ai-agent)**
 A conversational agent built with LangChain, Gemini, and Streamlit — my hands-on deep dive into how LLM agents actually work, from a single chain up to a full agent loop.
@@ -48,28 +48,12 @@ AI healthcare assistant fine-tuning BioBART-v2 with QLoRA for domain-specific co
 
 ---
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=sakshi-maurya1&show_icons=true&theme=tokyonight&count_private=true" width="49%" alt="Sakshi's GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshi-maurya1&layout=compact&theme=tokyonight" width="49%" alt="Top languages" />
+### 📊 Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sakshi-maurya1&theme=tokyonight" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/sakshi3maurya" width="48%" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshi-maurya1&theme=tokyonight)
-
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=sakshi-maurya1&theme=tokyonight&row=1&column=6) -->
-
----
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
-### 📍 Right now
-Sharpening the gap between "I can build an agent" and "I can build an agent someone would actually pay for." If you're hiring for AI/ML engineering, or have a project that needs an agentic system or RAG pipeline built properly — let's talk.
 
 ### 📫 Reach me
 - LinkedIn: [sakshi-maurya](https://www.linkedin.com/in/sakshi-maurya-a495a7216)
